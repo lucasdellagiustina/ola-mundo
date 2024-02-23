@@ -1,0 +1,16 @@
+<divclass="center"
+.center{
+      width: 100%;
+      height: 100%;
+      display: flex;
+      felx-flow: row nowraps;
+      align-itens: center;
+      justity-content: center;
+}
+html,body{
+      margin:0;
+      padding:0;
+}
+.msg{
+      font-size:64px;
+}
