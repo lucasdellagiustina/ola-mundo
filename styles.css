@@ -4,7 +4,7 @@
       height: 100%;
       display: flex;
       felx-flow: row nowraps;
-      align-itens: center;
+      align-items: center;
       justity-content: center;
 }
 html,body{
