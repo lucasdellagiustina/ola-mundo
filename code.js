@@ -8,4 +8,3 @@ document.addEventListener("DOMContentLoaded", () => {
                 texto.textContent = "Olá Mundo";
         });
 });
-
